@@ -1,0 +1,7 @@
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe.config
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.exe
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\bin\Debug\KodlamaIODemo.pdb
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.AssemblyReference.cache
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.csproj.CoreCompileInputs.cache
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.exe
+C:\Users\borai\source\repos\KodlamaIODemo\KodlamaIODemo\obj\Debug\KodlamaIODemo.pdb
